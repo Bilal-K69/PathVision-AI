@@ -1,0 +1,48 @@
+# Core GUI Framework
+PySide6==6.7.0
+
+# Mapping and Graph Processing
+osmnx==2.0.0
+networkx==3.2
+geopy==2.4.1
+
+# Data Processing
+numpy==1.24.4
+pandas==2.1.4
+geopandas==0.14.0
+scipy==1.11.4
+
+# Visualization
+matplotlib==3.8.2
+scipy==1.11.4
+shapely==2.0.2
+
+# Utilities
+requests==2.31.0
+python-dotenv==1.0.0
+pyyaml==6.0.1
+click==8.1.7
+
+# Logging and Configuration
+loguru==0.7.2
+pydantic==2.5.2
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-qt==4.2.0
+
+# Code Quality
+flake8==6.1.0
+pylint==3.0.3
+mypy==1.7.1
+black==23.12.1
+isort==5.13.2
+
+# Optional: Video Export
+ffmpeg-python==0.2.1
+manim==0.18.0
+
+# Development
+ipython==8.19.0
+jupyter==1.0.0
